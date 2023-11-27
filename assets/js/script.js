@@ -1,3 +1,5 @@
+// Iniciar Swiper
+
 var swiper = new Swiper(".mySwiper", {
 
   direction: 'horizontal',
